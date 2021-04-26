@@ -3,7 +3,7 @@ import {Provider} from 'react-redux';
 
 //components
 
-import BookContainer from './components/bookContainer';
+import BookContainer from './components/BookContainer';
 import HookBookContainer from './components/HookBookContainer';
 import store from './redux/store';
 
